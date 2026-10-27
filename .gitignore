@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Local data extracts (do NOT commit real GBD data without checking the GBD
+# data-use agreement). Replace with your own cleaned extracts.
+data/raw/
+
+# Output artifacts
+results/*.png
+results/*.csv

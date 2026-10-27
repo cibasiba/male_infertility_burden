@@ -1,0 +1,22 @@
+region,driver,v1990,v2021
+China,population,1.0,0.98
+China,age_structure,1.0,1.03
+China,epidemiological_rate,1.0,1.11
+Global,population,1.0,1.35
+Global,age_structure,1.0,1.02
+Global,epidemiological_rate,1.0,1.07
+High SDI,population,1.0,1.05
+High SDI,age_structure,1.0,1.04
+High SDI,epidemiological_rate,1.0,1.06
+High middle SDI,population,1.0,1.2
+High middle SDI,age_structure,1.0,1.03
+High middle SDI,epidemiological_rate,1.0,1.08
+Middle SDI,population,1.0,1.25
+Middle SDI,age_structure,1.0,1.02
+Middle SDI,epidemiological_rate,1.0,1.09
+Low middle SDI,population,1.0,1.3
+Low middle SDI,age_structure,1.0,1.02
+Low middle SDI,epidemiological_rate,1.0,1.1
+Low SDI,population,1.0,1.4
+Low SDI,age_structure,1.0,1.01
+Low SDI,epidemiological_rate,1.0,1.05
